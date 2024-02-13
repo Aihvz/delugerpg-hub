@@ -1,0 +1,2535 @@
+{
+  "A": [
+    { 
+      "id": 1,
+      "name": "VIP Wallace (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/wallace.webp",
+      "btid": 382,
+      "expert":"Water",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Fire"
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Dark",
+            "Fire"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Wailord",
+          "class": "Mirage",
+          "dexnumber": 365,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/wailord.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Tentacruel",
+          "class": "Chrome",
+          "dexnumber": 73,
+          "type": ["Water", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/tentacruel.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Ludicolo",
+          "class": "Negative",
+          "dexnumber": 272,
+          "type": ["Water", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/ludicolo.png",
+          "moves": [
+            {
+              "pmove": "*Inferno Overdrive",
+              "ptype": "Fire"
+            },
+            {
+              "pmove": "*Supersonic Skystrike",
+              "ptype": "Flying"
+            }
+          ]
+        },
+        {
+          "pokemon": "Whiscash",
+          "class": "Retro",
+          "dexnumber": 340,
+          "type": ["Water", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/retro/whiscash.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Gyarados",
+          "class": "Shiny",
+          "dexnumber": 130,
+          "type": ["Water", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/gyarados.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Milotic",
+          "class": "Metallic",
+          "dexnumber": 350,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/milotic.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ultimater Trainer Silver",
+      "image": "https://i.dstatic.com/images/trainers/silver.webp",
+      "btid": 5142,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": "Electric"
+        },
+        {
+          "mtype": [
+            "Fire",
+            "Electric"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Weavile",
+          "class": "Mirage",
+          "dexnumber": 461,
+          "type": ["Dark", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/weavile.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Magnezone",
+          "class": "Chrome",
+          "dexnumber": 462,
+          "type": ["Electric", "Steel"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/magnezone.png",
+          "moves": [
+            {
+              "pmove": "Precipice Blades",
+              "ptype": "Ground"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Gengar",
+          "class": "Negative",
+          "dexnumber": 94,
+          "type": ["Ghost", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/mega%20gengar.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Crobat",
+          "class": "Normal",
+          "dexnumber": 169,
+          "type": ["Poison", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/crobat.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Alakazam",
+          "class": "Shiny",
+          "dexnumber": 65,
+          "type": "Psychic",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/mega%20alakazam.png",
+          "moves": [
+            {
+              "pmove": "*Sinister Arrow Raid",
+              "ptype": "Ghost"
+            },
+            {
+              "pmove": "*Black Hole Eclipse",
+              "ptype": "Dark"
+            }
+          ]
+        },
+        {
+          "pokemon": "Typhlosion",
+          "class": "Metallic",
+          "dexnumber": 157,
+          "type": "Fire",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/typhlosion.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ultimater Trainer Ash",      
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Normal",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Shiny",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Metallic",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/noivern.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Ghostly",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Dark",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Shadow",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Steel",
+            "Dragon"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Normal",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            },
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Shiny",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Metallic",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/noivern.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Ghostly",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Dark",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Shadow",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "*Tectonic Rage",
+              "ptype": "Ground"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "B": [
+    {
+      "id": 5,
+      "name": "VIP Steven (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/steven.webp",
+      "btid": 381,
+      "expert":"Steel",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Water",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Skarmony",
+          "class": "Normal",
+          "dexnumber": 227,
+          "type": ["Steel", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/skarmory.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Claydol",
+          "class": "Shiny",
+          "dexnumber": 344,
+          "type": ["Ground", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/claydol.png",
+          "moves": [
+            {
+              "pmove": "*Shattered Psyche",
+              "ptype": "Psychic"
+            },
+            {
+              "pmove": "*Continental Crush",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Aggron",
+          "class": "Metallic",
+          "dexnumber": 306,
+          "type": ["Steel", "Rock"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/aggron.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Cradily",
+          "class": "Ghostly",
+          "dexnumber": 346,
+          "type": ["Rock", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/cradily.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Armaldo",
+          "class": "Dark",
+          "dexnumber": 348,
+          "type": ["Rock", "Bug"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/armaldo.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Metagross",
+          "class": "Shadow",
+          "dexnumber": 376,
+          "type": ["Steel", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/metagross.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Shiny",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "*Shattered Psyche",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Metallic",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Ghostly",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/noivern.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Dark",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Shadow",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Mirage",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "C": [
+    {
+      "id": 7,
+      "name": "VIP Steven (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/steven.webp",
+      "btid": 381,
+      "expert":"Steel",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Water",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Skarmony",
+          "class": "Shiny",
+          "dexnumber": 227,
+          "type": ["Steel", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/skarmory.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Claydol",
+          "class": "Metallic",
+          "dexnumber": 344,
+          "type": ["Ground", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/claydol.png",
+          "moves": [
+            {
+              "pmove": "*Shattered Psyche",
+              "ptype": "Psychic"
+            },
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Aggron",
+          "class": "Ghostly",
+          "dexnumber": 306,
+          "type": ["Steel", "Rock"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/aggron.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Cradily",
+          "class": "Dark",
+          "dexnumber": 346,
+          "type": ["Rock", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/cradily.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Armaldo",
+          "class": "Shadow",
+          "dexnumber": 348,
+          "type": ["Rock", "Bug"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/armaldo.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Metagross",
+          "class": "Mirage",
+          "dexnumber": 376,
+          "type": ["Steel", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/metagross.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Steel",
+            "Dragon"
+          ]
+        },
+        {
+          "mtype": [
+            "Poison",
+            "Dark"
+          ]
+        },
+        {
+          "mtype": [
+            "Ghost",
+            "Dark"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Metallic",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            },
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Ghostly",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Dark",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/noivern.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Shadow",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Mirage",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Roar of Time",
+              "ptype": "Dragon"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Chrome",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "*Tectonic Rage",
+              "ptype": "Ground"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Metallic",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Ghostly",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Dark",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/noivern.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Shadow",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Mirage",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Chrome",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "*Supersonic Skystrike",
+              "ptype": "Flying"
+            },
+            {
+              "pmove": "*Catastropika",
+              "ptype": "Electric"
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+
+  "D": [
+    {
+      "id": 10,
+      "name": "VIP Wallace (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/wallace.webp",
+      "btid": 382,
+      "expert":"Water",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Fire"
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Dark",
+            "Fire"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Wailord",
+          "class": "Normal",
+          "dexnumber": 365,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/wailord.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Tentacruel",
+          "class": "Shiny",
+          "dexnumber": 73,
+          "type": ["Water", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/tentacruel.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Ludicolo",
+          "class": "Metallic",
+          "dexnumber": 272,
+          "type": ["Water", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/ludicolo.png",
+          "moves": [
+            {
+              "pmove": "*Inferno Overdrive",
+              "ptype": "Fire"
+            },
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Whiscash",
+          "class": "Ghostly",
+          "dexnumber": 340,
+          "type": ["Water", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/whiscash.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Gyarados",
+          "class": "Dark",
+          "dexnumber": 130,
+          "type": ["Water", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/gyarados.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Milotic",
+          "class": "Shadow",
+          "dexnumber": 350,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/milotic.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ultimater Trainer Silver",
+      "image": "https://i.dstatic.com/images/trainers/silver.webp",
+      "btid": 5142,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Poison",
+            "Dark"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Water"
+          ]
+        },
+        {
+          "mtype": [
+            "Ghost",
+            "Dark"
+          ]
+        },
+        {
+          "mtype": [
+            "Water",
+            "Electric"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Weavile",
+          "class": "Normal",
+          "dexnumber": 461,
+          "type": ["Dark", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/weavile.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Magnezone",
+          "class": "Shiny",
+          "dexnumber": 462,
+          "type": ["Electric", "Steel"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/magnezone.png",
+          "moves": [
+            {
+              "pmove": "Precipice Blades",
+              "ptype": "Ground"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Gengar",
+          "class": "Metallic",
+          "dexnumber": 94,
+          "type": ["Ghost", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/mega%20gengar.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Crobat",
+          "class": "Ghostly",
+          "dexnumber": 169,
+          "type": ["Poison", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/crobat.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Alakazam",
+          "class": "Dark",
+          "dexnumber": 65,
+          "type": "Psychic",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/mega%20alakazam.png",
+          "moves": [
+            {
+              "pmove": "*Sinister Arrow Raid",
+              "ptype": "Ghost"
+            },
+            {
+              "pmove": "*Black Hole Eclipse",
+              "ptype": "Dark"
+            }
+          ]
+        },
+        {
+          "pokemon": "Typhlosion",
+          "class": "Shadow",
+          "dexnumber": 157,
+          "type": "Fire",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/typhlosion.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+
+  "E": [
+    {
+      "id": 12,
+      "name": "VIP Wallace (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/wallace.webp",
+      "btid": 382,
+      "expert":"Water",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Fire"
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Dark",
+            "Fire"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Wailord",
+          "class": "Shiny",
+          "dexnumber": 365,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/wailord.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Tentacruel",
+          "class": "Metallic",
+          "dexnumber": 73,
+          "type": ["Water", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/tentacruel.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Ludicolo",
+          "class": "Ghostly",
+          "dexnumber": 272,
+          "type": ["Water", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/ludicolo.png",
+          "moves": [
+            {
+              "pmove": "*Inferno Overdrive",
+              "ptype": "Fire"
+            },
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Whiscash",
+          "class": "Dark",
+          "dexnumber": 340,
+          "type": ["Water", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/whiscash.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Gyarados",
+          "class": "Shadow",
+          "dexnumber": 130,
+          "type": ["Water", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/gyarados.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Milotic",
+          "class": "Mirage",
+          "dexnumber": 350,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/milotic.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Ultimater Trainer Silver",
+      "image": "https://i.dstatic.com/images/trainers/silver.webp",
+      "btid": 5142,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Poison",
+            "Dark"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Water"
+          ]
+        },
+        {
+          "mtype": [
+            "Ghost",
+            "Dark"
+          ]
+        },
+        {
+          "mtype": [
+            "Water",
+            "Electric"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Weavile",
+          "class": "Shiny",
+          "dexnumber": 461,
+          "type": ["Dark", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/weavile.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Magnezone",
+          "class": "Metallic",
+          "dexnumber": 462,
+          "type": ["Electric", "Steel"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/magnezone.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Gengar",
+          "class": "Ghostly",
+          "dexnumber": 94,
+          "type": ["Ghost", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20gengar.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Crobat",
+          "class": "Dark",
+          "dexnumber": 169,
+          "type": ["Poison", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/crobat.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Alakazam",
+          "class": "Shadow",
+          "dexnumber": 65,
+          "type": "Psychic",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/mega%20alakazam.png",
+          "moves": [
+            {
+              "pmove": "*Sinister Arrow Raid",
+              "ptype": "Ghost"
+            },
+            {
+              "pmove": "*Black Hole Eclipse",
+              "ptype": "Dark"
+            }
+          ]
+        },
+        {
+          "pokemon": "Typhlosion",
+          "class": "Mirage",
+          "dexnumber": 157,
+          "type": "Fire",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/typhlosion.png",
+          "moves": [
+            {
+              "pmove": "Water Spout",
+              "ptype": "Water"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ultimater Trainer Gary",
+      "image": "https://i.dstatic.com/images/trainers/gary.webp",
+      "btid": 5140,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Psychic",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Water",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Umbreon",
+          "class": "Chrome",
+          "dexnumber": 197,
+          "type": "Dark",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/umbreon.png",
+          "moves": [
+            {
+              "pmove": "*Shattered Psyche",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Blastoise",
+          "class": "Negative",
+          "dexnumber": 9,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/mega%20blastoise.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Electivire",
+          "class": "Normal",
+          "dexnumber": 466,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/electivire.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Scizor",
+          "class": "Shiny",
+          "dexnumber": 212,
+          "type": ["Bug", "Steel"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/mega%20scizor.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Arcanine",
+          "class": "Metallic",
+          "dexnumber": 59,
+          "type": "Fire",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/arcanine.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Nidoking",
+          "class": "Ghostly",
+          "dexnumber": 34,
+          "type": ["Poison", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/nidoking.png",
+          "moves": [
+            {
+              "pmove": "Belch",
+              "ptype": "Poison"
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+
+
+  "F": [
+    {
+      "id": 15,
+      "name": "VIP Wallace (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/wallace.webp",
+      "btid": 382,
+      "expert":"Water",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Fire"
+        },
+        {
+          "mtype": [
+            "Normal",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Fighting",
+            "Fire"
+          ]
+        },
+        {
+          "mtype": [
+            "Dark",
+            "Fire"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Wailord",
+          "class": "Metallic",
+          "dexnumber": 365,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/wailord.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Tentacruel",
+          "class": "Ghostly",
+          "dexnumber": 73,
+          "type": ["Water", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/tentacruel.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Ludicolo",
+          "class": "Dark",
+          "dexnumber": 272,
+          "type": ["Water", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/ludicolo.png",
+          "moves": [
+            {
+              "pmove": "*Inferno Overdrive",
+              "ptype": "Fire"
+            },
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        },
+        {
+          "pokemon": "Whiscash",
+          "class": "Shadow",
+          "dexnumber": 340,
+          "type": ["Water", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/whiscash.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Gyarados",
+          "class": "Mirage",
+          "dexnumber": 130,
+          "type": ["Water", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/gyarados.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Milotic",
+          "class": "Chrome",
+          "dexnumber": 350,
+          "type": "Water",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/milotic.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Ground",
+            "Water"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Shadow",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Mirage",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Chrome",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/noivern.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Negative",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Normal",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Shiny",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "*Tectonic Rage",
+              "ptype": "Ground"
+            }
+          ]
+        }
+      ]
+    }
+    
+  ],
+
+
+  "G": [
+    {
+      "id": 17,
+      "name": "Strong Trainer Giovanni",
+      "image": "https://i.dstatic.com/images/trainers/giovanni.webp",
+      "btid": 5155,
+      "expert":"Ground",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Flying",
+            "Steel"
+          ]
+        },
+        {
+          "mtype": [
+            "Bug",
+            "Steel"
+          ]
+        },
+        {
+          "mtype": [
+            "Steel",
+            "Grass"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Rhyperior",
+          "class": "Metallic",
+          "dexnumber": 464,
+          "type": ["Ground", "Rock"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/rhyperior.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Freeze Shock",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Grachomp",
+          "class": "Ghostly",
+          "dexnumber": 445,
+          "type": ["DRagon", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/mega%20garchomp.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Freeze Shock",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Nidoking",
+          "class": "Dark",
+          "dexnumber": 34,
+          "type": ["Poison", "Ground"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/nidoking.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Freeze Shock",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Gliscor",
+          "class": "Shadow",
+          "dexnumber": 472,
+          "type": ["Ground", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/gliscor.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Freeze Shock",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Krookodile",
+          "class": "Mirage",
+          "dexnumber": 553,
+          "type": ["Ground", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/krookodile.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Freeze Shock",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Hippowdon",
+          "class": "Chrome",
+          "dexnumber": 450,
+          "type": "Ground",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/hippowdon.png",
+          "moves": [
+            {
+              "pmove": "*Subzero Slammer",
+              "ptype": "Ice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "VIP Lance (JOHTO CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/lance.webp",
+      "btid": 281,
+      "expert":"Dragon",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Rock",
+            "Fairy"
+          ]
+        },
+        {
+          "mtype": [
+            "Steel",
+            "Fairy"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Gyarados",
+          "class": "Metallic",
+          "dexnumber": 130,
+          "type": ["Water", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/gyarados.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Dragonite",
+          "class": "Ghostly",
+          "dexnumber": 149,
+          "type": ["Dragon", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/dragonite.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Dragonite",
+          "class": "Chrome",
+          "dexnumber": 149,
+          "type": ["Dragon", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/dragonite.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Aerodactyl",
+          "class": "Shadow",
+          "dexnumber": 142,
+          "type": ["Rock", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/aerodactyl.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Charizard",
+          "class": "Mirage",
+          "dexnumber": 6,
+          "type": ["Fire", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/charizard.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Dragonite",
+          "class": "Dark",
+          "dexnumber": 149,
+          "type": ["Dragon", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/dragonite.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ultimater Trainer Deluge ♂",
+      "image": "https://i.dstatic.com/images/trainers/delugem.webp",
+      "btid": 5146,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Iron Valiant",
+          "class": "Normal",
+          "dexnumber": 1006,
+          "type": ["Fairy", "Fighting"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/iron%20valiant.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Primal Groudon",
+          "class": "Shiny",
+          "dexnumber": 383,
+          "type": ["Ground", "Fire"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/primal%20groudon.png",
+          "moves": [
+            {
+              "pmove": "*Inferno Drive",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Salamence",
+          "class": "Metallic",
+          "dexnumber": 373,
+          "type": ["Dragon", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/mega%20salamence.png",
+          "moves": [
+            {
+              "pmove": "Focus Punch",
+              "ptype": "Fighting"
+            }
+          ]
+        },
+        {
+          "pokemon": "Darkrai",
+          "class": "Ghostly",
+          "dexnumber": 491,
+          "type": "Dark",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/darkrai.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Lunala",
+          "class": "Dark",
+          "dexnumber": 792,
+          "type": ["Psychic", "Ghost"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/lunala.png",
+          "moves": [
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Miraidon",
+          "class": "Shadow",
+          "dexnumber": 1008,
+          "type": ["Electric", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/miraidon.png",
+          "moves": [
+            {
+              "pmove": "Bolt Strike",
+              "ptype": "Electric"
+            }
+          ]
+        }
+      ]
+    }
+    
+    
+  ],
+
+
+
+  "H": [
+    {
+      "id": 20,
+      "name": "Ultimater Trainer Silver",
+      "image": "https://i.dstatic.com/images/trainers/silver.webp",
+      "btid": 5142,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Bug",
+            "Flying"
+          ]
+        },
+        {
+          "mtype": [
+            "Bug",
+            "Psychic"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Weavile",
+          "class": "Dark",
+          "dexnumber": 461,
+          "type": ["Dark", "Ice"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/weavile.png",
+          "moves": [
+            {
+              "pmove": "*Subzero Slammer",
+              "ptype": "Ice"
+            },
+            {
+              "pmove": "Prismatic Laser",
+              "ptype": "Psychic"
+            }
+          ]
+        },
+        {
+          "pokemon": "Magnezone",
+          "class": "Shadow",
+          "dexnumber": 462,
+          "type": ["Electric", "Steel"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shadow/magnezone.png",
+          "moves": [
+            {
+              "pmove": "Megahorn",
+              "ptype": "Bug"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Gengar",
+          "class": "Mirage",
+          "dexnumber": 94,
+          "type": ["Ghost", "Poison"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/mirage/mega%20gengar.png",
+          "moves": [
+            {
+              "pmove": "Megahorn",
+              "ptype": "Bug"
+            }
+          ]
+        },
+        {
+          "pokemon": "Crobat",
+          "class": "Chrome",
+          "dexnumber": 169,
+          "type": ["Poison", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/crobat.png",
+          "moves": [
+            {
+              "pmove": "Megahorn",
+              "ptype": "Bug"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Alakazam",
+          "class": "Negative",
+          "dexnumber": 65,
+          "type": "Psychic",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/mega%20alakazam.png",
+          "moves": [
+            {
+              "pmove": "Megahorn",
+              "ptype": "Bug"
+            }
+          ]
+        },
+        {
+          "pokemon": "Typhlosion",
+          "class": "Normal",
+          "dexnumber": 157,
+          "type": "Fire",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/typhlosion.png",
+          "moves": [
+            {
+              "pmove": "Megahorn",
+              "ptype": "Bug"
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+
+  
+
+  "I": [
+    {
+      "id": 21,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Water",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Negative",
+          "dexnumber": 658,
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Normal",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Shiny",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/noivern.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Metallic",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Ghostly",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Dark",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "Gigaton Hammer",
+              "ptype": "Steel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ultimater Trainer Ash",
+      "image": "https://i.dstatic.com/images/trainers/ash.webp",
+      "btid": 5141,
+      "expert":"All Around",
+      "battleMode": "Normal",
+      "pokemonType": [
+        {
+          "mtype": [
+            "Ghost",
+            "Fire"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Ash-Greninja",
+          "class": "Negative",
+          "type": ["Water", "Dark"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/ash-greninja.png",
+          "moves": [
+            {
+              "pmove": "V-Create",
+              "ptype": "Fire"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Charizard X",
+          "class": "Normal",
+          "dexnumber": 6,
+          "type": ["Fire", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/mega%20charizard%20x.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noivern",
+          "class": "Shiny",
+          "dexnumber": 715,
+          "type": ["Flying", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/noivern.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Mega Sceptile",
+          "class": "Metallic",
+          "dexnumber": 254,
+          "type": ["Grass", "Dragon"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/mega%20sceptile.png",
+          "moves": [
+            {
+              "pmove": "Ice Burn",
+              "ptype": "Ice"
+            }
+          ]
+        },
+        {
+          "pokemon": "Noctowl",
+          "class": "Ghostly",
+          "dexnumber": 164,
+          "type": ["Normal", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/noctowl.png",
+          "moves": [
+            {
+              "pmove": "Rock Wrecker",
+              "ptype": "Rock"
+            }
+          ]
+        },
+        {
+          "pokemon": "Alola Cap Pikachu",
+          "class": "Dark",
+          "dexnumber": 25,
+          "type": "Electric",
+          "pimage": "https://i.dstatic.com/images/pokemon/front/dark/alola%20cap%20pikachu.png",
+          "moves": [
+            {
+              "pmove": "*Tectonic Rage",
+              "ptype": "Ground"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "VIP Steven (HOENN CHAMPION)",
+      "image": "https://i.dstatic.com/images/trainers/league/steven.webp",
+      "btid": 381,
+      "expert":"Steel",
+      "battleMode": "Inverse",
+      "pokemonType": [
+        {
+          "mtype": "Ice"
+        },
+        {
+          "mtype": [
+            "Water",
+            "Ice"
+          ]
+        },
+        {
+          "mtype": [
+            "Ground",
+            "Ice"
+          ]
+        }
+      ],
+      "pokemonteam": [
+        {
+          "pokemon": "Skarmony",
+          "class": "Chrome",
+          "dexnumber": 227,
+          "type": ["Steel", "Flying"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/chrome/skarmory.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Claydol",
+          "class": "Negative",
+          "dexnumber": 344,
+          "type": ["Ground", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/negative/claydol.png",
+          "moves": [
+            {
+              "pmove": "Frenzy Plant",
+              "ptype": "Grass"
+            }
+          ]
+        },
+        {
+          "pokemon": "Normal Aggron",
+          "class": "Normal",
+          "dexnumber": 306,
+          "type": ["Steel", "Rock"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/normal/aggron.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Shiny Cradily",
+          "class": "Shiny",
+          "dexnumber": 346,
+          "type": ["Rock", "Grass"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/shiny/cradily.png",
+          "moves": [
+            {
+              "pmove": "*Pulverizing Pancake",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Metallic Armaldo",
+          "class": "Metallic",
+          "dexnumber": 348,
+          "type": ["Rock", "Bug"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/metallic/armaldo.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        },
+        {
+          "pokemon": "Ghostly Metagross",
+          "class": "Ghostly",
+          "dexnumber": 376,
+          "type": ["Steel", "Psychic"],
+          "pimage": "https://i.dstatic.com/images/pokemon/front/ghostly/metagross.png",
+          "moves": [
+            {
+              "pmove": "Explosion",
+              "ptype": "Normal"
+            }
+          ]
+        }
+      ]
+    }
+
+    
+  ]
+
+
+
+}
