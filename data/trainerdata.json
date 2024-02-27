@@ -224,7 +224,7 @@
       "image": "https://i.dstatic.com/images/trainers/ash.webp",
       "btid": 5141,
       "expert":"All Around",
-      "battleMode": "Normal",
+      "battleMode": "Inverse",
       "pokemonType": [
         {
           "mtype": "Ice"
@@ -329,7 +329,7 @@
       "image": "https://i.dstatic.com/images/trainers/ash.webp",
       "btid": 5141,
       "expert":"All Around",
-      "battleMode": "Inverse",
+      "battleMode": "Normal",
       "pokemonType": [
         {
           "mtype": [
