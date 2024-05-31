@@ -270,7 +270,7 @@
 
 
 	{ "opp": "Aroma Lady Julie", "e10": 3220, "e50": 3864, "e100": 1932, "e150": 966, "head": "Trainers", "btid": 5007, "base": "trainer" },
-	{ "opp": "Artist Hendry", "e10": 2204, "e50": 2645, "e100": 1323, "e150": 662, "head": "Trainers", "btid": 5009, "base": "trainer" },
+	{ "opp": "Artist Hendrix", "e10": 2204, "e50": 2645, "e100": 1323, "e150": 662, "head": "Trainers", "btid": 5009, "base": "trainer" },
 	{ "opp": "Artist Sylvia", "e10": 2169, "e50": 2603, "e100": 1302, "e150": 651, "head": "Trainers", "btid": 5008, "base": "trainer" },
 	{ "opp": "Backpacker Lilliana", "e10": 5966, "e50": 7160, "e100": 3580, "e150": 1790, "head": "Trainers", "btid": 5010, "base": "trainer" },
 	{ "opp": "Backpacker Rodrigo", "e10": 4440, "e50": 5328, "e100": 2664, "e150": 1332, "head": "Trainers", "btid": 5011, "base": "trainer" },
